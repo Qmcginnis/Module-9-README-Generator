@@ -37,4 +37,9 @@ All the responses are converted to markdown format and the fs.write package will
       
   For more information please view the [license description](https://choosealicense.com/licenses/mit/).
   
-  
+  ## Contributers 
+  Original Source Code: https://github.com/coding-boot-camp/potential-enigma 
+
+  [John Banas](https://github.com/JohnBanas)
+
+  Sheetal Shrikumar (My tutor whom I worked on this proj with)
